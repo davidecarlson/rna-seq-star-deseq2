@@ -17,9 +17,9 @@ trimming:
 
 ref:
   # the STAR index
-  index: "path/to/star/index"
+  index: "/datahome/oenothera/transcripts/genome_index"
   # gtf file with transcripts
-  annotation: "path/to/annotation.gtf"
+  annotation: "/datahome/oenothera/gene_prediction/oelata/maker/oelata_final_rep_lib/oelata_final_rep_lib.all_functional_blast_domain_added.gtf"
 
 pca:
   labels:
